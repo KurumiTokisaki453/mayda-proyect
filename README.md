@@ -1,5 +1,7 @@
 # React + Vite
 
+ESTADO LIMPIO, CREADO DESDE 0 REACT, producción y edición.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
